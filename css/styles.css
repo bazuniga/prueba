@@ -1,12 +1,17 @@
-#form-ingreso{
-    width: 25%;
+#contenedor{
+	text-align: center;
+    width: 10%;
     height: 40em;
     margin: 0 auto;
-    display: flex;
+    display: table;
     flex-direction: column;
     justify-content: center;
 }
-h3{
+button#no{
+	margin-right: 10px;
+	background: rgb(0, 23.906, 23.906);
+}
+h1{
     text-align: center;
 }
 #div-ingreso{
