@@ -36,5 +36,5 @@ function cambiarPosicion(){
   }
 
 function miFuncion() {
-    alert("Lo sabia ;)");
+    alert("Lo sabia 😍");
 }
